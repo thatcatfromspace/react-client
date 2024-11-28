@@ -1,0 +1,62 @@
+[
+    {
+        "batch_id": 1,
+        "batch_name": "Batch A",
+        "batch_desc": "Description for Batch A",
+        "batch_status": "Active"
+    },
+    {
+        "batch_id": 2,
+        "batch_name": "Batch B",
+        "batch_desc": "Description for Batch B",
+        "batch_status": "Inactive"
+    },
+    {
+        "batch_id": 3,
+        "batch_name": "Batch C",
+        "batch_desc": "Description for Batch C",
+        "batch_status": "Active"
+    },
+    {
+        "batch_id": 4,
+        "batch_name": "Batch D",
+        "batch_desc": "Description for Batch D",
+        "batch_status": "Inactive"
+    },
+    {
+        "batch_id": 5,
+        "batch_name": "Batch E",
+        "batch_desc": "Description for Batch E",
+        "batch_status": "Active"
+    },
+    {
+        "batch_id": 6,
+        "batch_name": "Batch F",
+        "batch_desc": "Description for Batch F",
+        "batch_status": "Inactive"
+    },
+    {
+        "batch_id": 7,
+        "batch_name": "Batch G",
+        "batch_desc": "Description for Batch G",
+        "batch_status": "Active"
+    },
+    {
+        "batch_id": 8,
+        "batch_name": "Batch H",
+        "batch_desc": "Description for Batch H",
+        "batch_status": "Inactive"
+    },
+    {
+        "batch_id": 9,
+        "batch_name": "Batch I",
+        "batch_desc": "Description for Batch I",
+        "batch_status": "Active"
+    },
+    {
+        "batch_id": 10,
+        "batch_name": "Batch J",
+        "batch_desc": "Description for Batch J",
+        "batch_status": "Inactive"
+    }
+]

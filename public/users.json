@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "user_name": "John Doe",
+        "rollno": "1234567890",
+        "mail_id": "john.doe@example.com",
+        "pass": "password123",
+        "user_status": "active",
+        "created_date": "2023-01-01",
+        "user_role": "admin"
+    },
+    {
+        "id": 2,
+        "user_name": "Jane Smith",
+        "rollno": "0987654321",
+        "mail_id": "jane.smith@example.com",
+        "pass": "password123",
+        "user_status": "inactive",
+        "created_date": "2023-02-01",
+        "user_role": "user"
+    },
+    {
+        "id": 3,
+        "user_name": "Alice Johnson",
+        "rollno": "1122334455",
+        "mail_id": "alice.johnson@example.com",
+        "pass": "password123",
+        "user_status": "active",
+        "created_date": "2023-03-01",
+        "user_role": "user"
+    },
+    {
+        "id": 4,
+        "user_name": "Bob Brown",
+        "rollno": "2233445566",
+        "mail_id": "bob.brown@example.com",
+        "pass": "password123",
+        "user_status": "inactive",
+        "created_date": "2023-04-01",
+        "user_role": "admin"
+    },
+    {
+        "id": 5,
+        "user_name": "Charlie Davis",
+        "rollno": "3344556677",
+        "mail_id": "charlie.davis@example.com",
+        "pass": "password123",
+        "user_status": "active",
+        "created_date": "2023-05-01",
+        "user_role": "user"
+    },
+    {
+        "id": 6,
+        "user_name": "David Evans",
+        "rollno": "4455667788",
+        "mail_id": "david.evans@example.com",
+        "pass": "password123",
+        "user_status": "inactive",
+        "created_date": "2023-06-01",
+        "user_role": "user"
+    },
+    {
+        "id": 7,
+        "user_name": "Eve Foster",
+        "rollno": "5566778899",
+        "mail_id": "eve.foster@example.com",
+        "pass": "password123",
+        "user_status": "active",
+        "created_date": "2023-07-01",
+        "user_role": "admin"
+    },
+    {
+        "id": 8,
+        "user_name": "Frank Green",
+        "rollno": "6677889900",
+        "mail_id": "frank.green@example.com",
+        "pass": "password123",
+        "user_status": "inactive",
+        "created_date": "2023-08-01",
+        "user_role": "user"
+    },
+    {
+        "id": 9,
+        "user_name": "Grace Harris",
+        "rollno": "7788990011",
+        "mail_id": "grace.harris@example.com",
+        "pass": "password123",
+        "user_status": "active",
+        "created_date": "2023-09-01",
+        "user_role": "user"
+    },
+    {
+        "id": 10,
+        "user_name": "Henry Irving",
+        "rollno": "8899001122",
+        "mail_id": "henry.irving@example.com",
+        "pass": "password123",
+        "user_status": "inactive",
+        "created_date": "2023-10-01",
+        "user_role": "admin"
+    }
+]
