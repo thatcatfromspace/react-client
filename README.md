@@ -1,4 +1,4 @@
-# React Client - Public Server
+# React Server
 
 This React project functions as a public server for the files under the `/public` directory.
 
